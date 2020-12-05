@@ -1,0 +1,47 @@
+.contact {
+    width: 50%;
+    margin: auto;
+    background-color: red;
+    padding: 20px 0px;
+}
+
+.contact h1 {
+    color: white;
+    text-align: center;
+}
+
+.contact p {
+    font-size: 20px;
+}
+
+.content-contact {
+    width: 80%;
+    margin: auto;
+    border: 1px solid white;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+
+.content-supmit button{
+    margin: 20px 0;
+    font-size: 20px;
+    padding: 5px 20px;
+    background-color: #0d394e;
+    color: white;
+}
+
+.content-supmit button:hover {
+    color: red;
+}
+
+.content-contact input{
+    width: 50%;
+    height: 30px;
+}
+
+.content-contact textarea {
+    width: 100%;
+}
+.content-supmit {
+    text-align: center;
+}
